@@ -1,12 +1,12 @@
 # 💫 About Me:
 
-- 👋 Hi, I’m @InnovaTechHub
+- 👋 Hi, I’m Amit Sharma (@InnovaTechHub)
 - 👀 I’m interested in Develop my Skill
 - 🔭 I'm currently working on building my website
 - 🌱 I’m currently learning Digital Marketing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on You
 - 🤝 I'm looking for expert help
-- 📫 How to reach me on WhatsApp (+91 9794256955)
+- 📫 Contact me on WhatsApp (+91 9794256955)
 - 💬 Ask me
 - ⚡ Fun Facts
 
